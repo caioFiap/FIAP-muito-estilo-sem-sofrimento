@@ -1,0 +1,56 @@
+.container{
+    text-align: center;
+    padding-top: 150px;
+}
+
+.titulo{
+    color: #7744d4;
+
+}
+
+.container img {
+    max-width: 600px;
+    max-height: 450px;
+    width: auto;
+    height: auto;
+    padding-bottom: 50px;
+}
+
+.bg-image{
+
+    height: 100vh;
+}
+
+.bg-cadastro{
+    height: 100vh;
+}
+
+.btn {
+    padding-left: 70px;
+    padding-right: 70px;
+    border-radius: 50px;
+    background-color: #7744d4;
+    text-align: center;
+    border: 0ch;
+
+}
+
+.btn-cadastro{
+    margin-top: 10px;
+    
+    border-radius: 50px;
+    background-color: #7744d4;
+    text-align: center;
+    border: 0ch;
+}
+
+.form-control{
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: rgba(235, 224, 224, 0.856);
+    
+}
+
+.form-control::-webkit-input-placeholder {
+    color: rgb(34, 27, 27);
+}
